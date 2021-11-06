@@ -1,5 +1,5 @@
 #include "Character.h"
-
+//hi 
 Character::Character()
 {
 	exit(1);
